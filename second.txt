@@ -1,0 +1,2 @@
+This is my second file in this git tutorial
+This is me adding up to the file and securing it
